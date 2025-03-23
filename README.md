@@ -1,2 +1,2 @@
 # user-management-api
-with frends
+with smart frends
